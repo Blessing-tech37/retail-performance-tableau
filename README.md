@@ -1,5 +1,3 @@
-# retail-performance-tableau
-
 # Retail Performance & Returns Analysis (Tableau)
 
 ## Project Overview
